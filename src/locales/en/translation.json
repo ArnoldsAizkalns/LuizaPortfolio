@@ -1,0 +1,20 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "testimonials": "Testimonials",
+    "portfolio": "Portfolio"
+  },
+  "main": {
+    "header": "Welcome!"
+  },
+  "profComponent": {
+    "greeting": "Hello",
+    "iAm": "I'am",
+    "title": "Your beauty master",
+    "description": "Transform your beauty experience with my premier cosmetology and nails services. Immerse yourself in a world of expertise, where meticulous attention to detail meets a passion for enhancing natural beauty. Experience the luxury of top-of-the-line skincare and nail care products, all within a tranquil atmosphere designed for your ultimate comfort and relaxation.",
+    "button": "Let's talk",
+    "social": "Check out my"
+  }
+}

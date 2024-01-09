@@ -1,0 +1,20 @@
+{
+  "header": {
+    "home": "Mājas",
+    "services": "Pakalpojumi",
+    "projects": "Projekti",
+    "testimonials": "Atsauksmes",
+    "portfolio": "Portfelis"
+  },
+  "main": {
+    "header": "Laipni lūdzam!"
+  },
+  "profComponent": {
+    "greeting": "Sveiki",
+    "iAm": "Es esmu",
+    "title": "Jūsu skaistuma meistare",
+    "description": "Pārvērtiet savu skaistuma pieredzi ar manām pirmklasīgajām kosmetoloģijas un nagu pakalpojumiem. Iegrimiet ekspertīzes pasaulē, kur rūpīga uzmanība detaļām satiekas ar aizrautību uzlabot dabīgo skaistumu. Izbaudiet augstākās klases ādas kopšanas un nagu kopšanas produktu luksusu, viss ietilpst miera atmosfērā, kas radīta jūsu galīgajam ērtumam un atpūtai.",
+    "button": "Sarunāsimies",
+    "social": "Apskatiet manu"
+  }
+}
